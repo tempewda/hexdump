@@ -1,0 +1,1 @@
+Hello Zig world!!! This is a sample text.
